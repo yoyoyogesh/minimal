@@ -1,6 +1,26 @@
-title: Minimal theme
+title: <p align="center"> Yogesh Kolhe </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/yogesh-kolhe-51105078">LinkedIn</a>
+  <a href="https://github.com/yoyoyogesh">GitHub</a>
+  
+  <br>
+  Hi there, My name is Yogesh Kolhe, 
+  I am subject matter expert in Automation Testing as well as DevOps.
+  Being Technical Leader/ Senior SQE I did 
+  ⦁ Initial framework setup and delivery first tests
+  ⦁ On boarded new SQE’s and provided support to deliver test automation 
+  ⦁ Provided coaching/training to SQE’s and provided support to squad members 
+  ⦁ Played Individual role whenever required 
+  ⦁ Motivated team members to start API automation, UI Automation, Mobile app automation. 
+  ⦁ Implemented CI/CD pipeline in project to cater automated regression and sanity pack.
+  I have written blogs on Automation testing and other technologies and busy with research on artificial intelligence and machine learning for Automation Testing.
+  
+  <a href="https://huddle.eurostarsoftwaretesting.com/bitbucket-tutorial-for-automation-engineers-developers-part-1/">Bitbucket Tutorial for Automation Engineers/Developers</a>
+  <a href="https://www.linkedin.com/pulse/automation-testing-phases-yogesh-kolhe/?trackingId=tlTvF%2FS%2F0WU%2B4GWsWE%2B%2BtQ%3D%3D">Automation Testing Phases</a> 
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
